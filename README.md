@@ -1,0 +1,1 @@
+# 123 znikasz Ty
