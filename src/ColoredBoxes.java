@@ -68,4 +68,9 @@ public class ColoredBoxes {
         }
 
     }
+    public static class Print {
+        public Print(){
+            System.out.println("Witam!");
+        }
+    }
 }
