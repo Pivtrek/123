@@ -24,7 +24,7 @@ public class ColoredBoxes {
         });
     }
     public static class TestPane extends JPanel {
-        protected static final int ROWS = 14;
+        protected static final int ROWS = 10;
         protected static final int COLS = 20;
         protected static final int BOX_SIZE = 30;
 
