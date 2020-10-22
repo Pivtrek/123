@@ -3,6 +3,8 @@ import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
 
+//Komentarz//
+
 public class ColoredBoxes {
     public ColoredBoxes() {
         EventQueue.invokeLater(new Runnable() {
